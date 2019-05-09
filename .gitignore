@@ -3,4 +3,4 @@
 .*
 *.log
 !.gitignore
-.iml
+*.iml
